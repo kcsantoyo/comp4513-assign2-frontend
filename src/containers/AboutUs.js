@@ -20,7 +20,7 @@ class AboutUs extends Component {
                     </div>
                     <div className="card">
                         <div className="card-content">
-                            <p class="title is-4">Kim Santoyo</p>
+                            <p class="title is-4">Kim Santoyo & Dylan DCosta</p>
                         </div>
                         <div class="content">
                             <table class="table">
@@ -36,6 +36,9 @@ class AboutUs extends Component {
                                     </tr>
                                     <tr>
                                         <td>Packages used:react, react-router-dom, @fortawesome/fontawesome</td>
+                                        <td>links to github repositories:</td>
+                                        <td><a href="https://github.com/kcsantoyo/comp4513-assign2-frontend.git">front end code</a></td>
+                                        <td><a href="https://github.com/kcsantoyo/comp4513-assign2-backend.git">back end code</a></td>
                                     </tr>
                                     <tr>
                                         <td>Used for help: <a href="https://www.w3schools.com/js/js_array_sort.asp">Sorting Arrays</a>, <a href="https://bulma.io/documentation/components/navbar/">For implementation of the Bulma Navbar Menu</a></td>
