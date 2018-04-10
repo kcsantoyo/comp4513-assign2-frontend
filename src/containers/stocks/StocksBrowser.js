@@ -36,7 +36,7 @@ class StocksBrowser extends Component {
                         <article>
                             <nav className="panel">
                             {
-                                compList.map((comp, index) => {
+                                this.state.compList.map((comp, index) => {
                                     let activeClass = "";
                                     return(
                                         <StockListItem
