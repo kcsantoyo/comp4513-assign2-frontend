@@ -26,10 +26,13 @@ class AboutUs extends Component {
                             <table class="table">
                                 <tbody>
                                     <tr>
-                                        <td>My name is Kim Santoyo. This site was made for educational purposes. It was created for COMP 4513 at Mount Royal University. </td>
+                                        <td>Our names are Kim Santoyo and Dylan DCosta. This site was made for educational purposes, but much of the functionality is unimplemented, and unfinished. It was created for COMP 4513 at Mount Royal University. </td>
+            
                                     </tr>
                                     <tr>
                                         <td>This site was built using React, <a href="https://fontawesome.com/">FontAwesome 5</a>, <a href="https://bulma.io/">Bulma: A CSS framework</a> and Javascript.</td>
+                                        <td>This site was built using node.js, link provided: <a href="https://nodejs.org/en/download/">Node.js</a></td>
+                                        <td>This website is hosted on, and provisioned by Heroku: <a href="https://www.heroku.com/">Heroku</a></td>
                                     </tr>
                                     <tr>
                                         <td>Packages used:react, react-router-dom, @fortawesome/fontawesome</td>

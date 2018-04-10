@@ -11,8 +11,6 @@ class NavMenu extends Component {
                 </div>
                     <div className="navbar-dropdown is-boxed">
                           <NavLink className="navbar-item" to={ {pathname: "/home"} }>Home</NavLink>
-                          <NavLink className="navbar-item" to={ {pathname: "/users"} }>Users</NavLink>
-                          <NavLink className="navbar-item" to={ {pathname: "/stocks"} }>Stocks</NavLink>
                           <NavLink className="navbar-item" to={ {pathname: "/about"} }>About</NavLink>
                     </div>
             </div>
