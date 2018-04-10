@@ -7,7 +7,7 @@ import axios from 'axios';
 class StocksBrowser extends Component {
     constructor(props) {
         super(props);
-        this.state = {currentComp: 1, compList: stocks};
+        this.state = {currentComp: 1, compList: null};
     }
     
     componentDidMount()
